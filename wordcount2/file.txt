@@ -1,0 +1,6 @@
+Hello, my name is Bob. What is your name?
+I like turtles!
+My favorite animals are cats.
+I like pizza.
+Who are you?
+What is the difference between right and wrong?
